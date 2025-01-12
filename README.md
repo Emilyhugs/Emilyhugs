@@ -1,7 +1,7 @@
 ## About me
 
 - 🔭 I’m currently working on a full-stack development course
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning HTML & CSS
 - 👯 I’m looking to collaborate on fun projects :)
 - 🤔 I’m looking for help with ideas for projects
 - 💬 Ask me (almost) anything
