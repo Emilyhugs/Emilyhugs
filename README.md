@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Emily</h1>
+<h1 align="center"><img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hi, I'm Emily</h1>
 <h3 align="center">I'm a student / baby full-stack developer </h3>
 
 
