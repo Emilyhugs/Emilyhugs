@@ -1,15 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emily</h1>
 <h3 align="center">I'm a student / baby full-stack developer </h3>
 
-<div align="center">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemY4NGZwa3VwdzZzMmlyMHY5a2YyNDB4NzJjcWlsbHIwa2MyMmtmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif"  />
-</div>
 
-###
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/emily-huggins11" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emily huggins" height="30" width="40" /></a>
 <a href="https://instagram.com/emilymhugs" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emilymhugs" height="30" width="40" /></a>
 </p>
 
@@ -24,5 +16,15 @@
 
 ###
 
+<div align="left">
+  <h3 align="left">Connect with me:</h3>
+  
+  <a href="https://instagram.com/emilymhugs" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/>
+  </a>
+  <a href="https://linkedin.com/in/emily-huggins11" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>
+  </a>
+</div>
 
-
+###
