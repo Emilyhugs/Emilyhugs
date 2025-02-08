@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Emily</h1>
 <h3 align="center">I'm a student / baby full-stack developer </h3>
 
+<div align="center">
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemY4NGZwa3VwdzZzMmlyMHY5a2YyNDB4NzJjcWlsbHIwa2MyMmtmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif"  />
+</div>
+
+###
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/emily-huggins11" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emily huggins" height="30" width="40" /></a>
