@@ -1,6 +1,13 @@
 <h1 align="center"><img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hi, I'm Emily</h1>
 <h3 align="center">I'm a student / baby full-stack developer </h3>
 
+<h6 align="center">Visitor Count</h6>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Emilyhugs/count.svg" alt="Visitor Count" />
+</p>
+
+
 ###
 
 <div align="center">
