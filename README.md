@@ -31,6 +31,5 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emilyhugs&show_icons=true&locale=en" height="150" alt="emilyhugs" /></p>
 <p align="center">&nbsp;<img align ="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emilyhugs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /></p>
 
-
-<img src="https://raw.githubusercontent.com/emilyhugs/emilyhugs/output/snake.svg" alt="Snake animation" />
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/Emilyhugs/Emilyhugs/output/github-contribution-grid-snake.svg" />
 
